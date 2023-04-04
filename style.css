@@ -1,0 +1,21 @@
+*{
+    margin: 0%;
+    padding: 0;
+}
+.logo h1 {
+     text-align: center ; color: purple;   
+}
+.image img {
+   float: 20% right;
+    height: 400px;
+    width: 400px;
+}
+.about h2{ 
+   text-align: center;
+}
+.about h3{
+    text-align: center;
+}
+.about{ 
+    text-align: center;
+}
